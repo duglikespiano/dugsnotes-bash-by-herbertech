@@ -14,7 +14,8 @@
 ### 1. 개요
 
 - 프로젝트명 : dugsnotes_bash_by_herbertech
-- 관련URL : https://youtu.be/tK9Oc6AEnR4?si=bBA2vJyHHgv-gg2Y
+- 관련URL1 : https://youtu.be/tK9Oc6AEnR4?si=bBA2vJyHHgv-gg2Y
+- 관련URL2 : https://youtu.be/PNhq_4d-5ek?si=ntansf77gHifeQTk
 - 기간 : 2026.01.08 - 진행중
 - 인원 : 1인
 - 기술스택 : </br>
