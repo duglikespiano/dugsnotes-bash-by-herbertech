@@ -16,6 +16,7 @@
 - Project タイトル : dugsnotes_bash_by_herbertech
 - 関連 URL1 : https://youtu.be/tK9Oc6AEnR4?si=bBA2vJyHHgv-gg2Y
 - 関連 URL2 : https://youtu.be/v-F3YLd6oMw?si=EGqI6RO5IzSO7h3f
+- 関連 URL3 : https://youtu.be/e7BufAVwDiM?si=EqcwcWMbDarVz4Kq
 - 期間 : 2026.01.08 - 進行中
 - 人員 : 1 人
 - 技術スタック : </br>

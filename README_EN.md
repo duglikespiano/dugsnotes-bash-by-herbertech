@@ -16,6 +16,7 @@
 - Project title : dugsnotes_bash_by_herbertech
 - Related URL1 : https://youtu.be/tK9Oc6AEnR4?si=bBA2vJyHHgv-gg2Y
 - Related URL2 : https://youtu.be/v-F3YLd6oMw?si=EGqI6RO5IzSO7h3f
+- Related URL3 : https://youtu.be/e7BufAVwDiM?si=EqcwcWMbDarVz4Kq
 - Period : Jan 08 2026 - in progress
 - Member(s) : Dug Park
 - Tech stack : </br>
